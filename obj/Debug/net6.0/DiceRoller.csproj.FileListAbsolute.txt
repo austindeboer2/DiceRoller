@@ -1,0 +1,30 @@
+E:\GitHub Repos\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.exe
+E:\GitHub Repos\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.deps.json
+E:\GitHub Repos\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.runtimeconfig.json
+E:\GitHub Repos\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.dll
+E:\GitHub Repos\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.pdb
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.AssemblyReference.cache
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfoInputs.cache
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfo.cs
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.CoreCompileInputs.cache
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.dll
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\refint\DiceRoller.dll
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.pdb
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.genruntimeconfig.cache
+E:\GitHub Repos\DiceRoller\DiceRoller\obj\Debug\net6.0\ref\DiceRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.exe
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.deps.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.runtimeconfig.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\bin\Debug\net6.0\DiceRoller.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\refint\DiceRoller.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\DiceRoller\DiceRoller\obj\Debug\net6.0\ref\DiceRoller.dll
